@@ -1,5 +1,3 @@
-Dockerfile  entrypoint.sh
-root@ubuntutest:~/docker/zoo# cat Dockerfile
 FROM bellsoft/liberica-openjdk-alpine:17.0.6-10
 
 ENV KAFKA_VERSION 3.3.1
